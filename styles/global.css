@@ -43,6 +43,9 @@
   --py-xl: 3rem;
 
   --px-lg: 1.5rem;
+
+  --btn-bg-color: var(--text-color-primary);
+  --btn-color: var(--bg-color);
 }
 
 html {
